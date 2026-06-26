@@ -44,6 +44,9 @@ Contributed as a backend developer on a team project. Built a robust REST API an
 
 - 📧 Email yaroslavpetrushko.off@gmail.com
 
+---
+
+## Stats
 [![Yaroslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaroslavpetrushko&show_icons=true&theme=tokyonight&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
