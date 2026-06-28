@@ -30,7 +30,7 @@ CS student from Ukraine · desktop apps, bots
 |---|---|---|
 | [Fighting Games Tournament Tracker](https://github.com/YaroslavPetrushko/FightingTournament) | Desktop app for local fighting game events | C# .NET 8 · WPF · SQLite · MVVM |
 | [CourseHub](https://github.com/YaroslavPetrushko/WEB_Server) | RESTful web server with blog & comments | Node.js · Express · MongoDB |
-| [Java Book Manager](https://github.com/YaroslavPetrushko/OOP_Java) | JavaFX CRUD app with full test coverage | Java · JavaFX · PostgreSQL · JUnit 5 |
+| [Java Book Manager](https://github.com/YaroslavPetrushko/OOP-Java-Group-Project) | JavaFX CRUD app with full test coverage | Java · JavaFX · PostgreSQL · JUnit 5 |
 
 ### 🚀 Bootcamp 2026 — [state-authorities-app](https://github.com/state-authorities-team/state-authorities-app/tree/main)
 
