@@ -47,9 +47,9 @@ Contributed as a backend developer on a team project. Built a robust REST API an
 ---
 
 ## Stats
-[![Yaroslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaroslavpetrushko&show_icons=true&theme=tokyonight&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+[![Yaroslav's GitHub stats](https://github-stats-extended.vercel.app/api?username=yaroslavpetrushko&show_icons=true&theme=tokyonight&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/stats-organization/github-stats-extended)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <!--
 **YaroslavPetrushko/YaroslavPetrushko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
